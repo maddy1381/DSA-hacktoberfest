@@ -18,4 +18,4 @@ Disclaimer:: Do Star ⭐ this Repo then Fork🍴
 - Add a meaningful message to the PR’s and also mention the solved issue topic
 
 
-This is a good project for beginners to get some hands-on experience
+This is a good project for beginners to get some hands-on experience.
